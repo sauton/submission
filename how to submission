@@ -1,0 +1,9 @@
+smb://192.168.3.253/solazu_drive/02_Themeforest/EDUCATION/03_Submission/WP
+coppy newest date folder
+upgrade version 0.0.0.+1
+	educhain__v1.1.11.1  +1
+delete all zip file
+delete educhain folder
+	cd educhild
+	cd .. cd documentation
+	change date lastest udpate: index.php
